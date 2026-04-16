@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\8QueensChessPuzzle.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\_8QueensChessPuzzle.Form1.resources
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\_8QueensChessPuzzle.Properties.Resources.resources
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\8QueensChessPuzzle.csproj.GenerateResource.cache
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\8QueensChessPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\bin\Debug\8QueensChessPuzzle.exe.config
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\bin\Debug\8QueensChessPuzzle.exe
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\bin\Debug\8QueensChessPuzzle.pdb
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\8QueensChessPuzzle.exe
+C:\Users\james\source\repos\8QueensChessPuzzle\8QueensChessPuzzle\obj\Debug\8QueensChessPuzzle.pdb
